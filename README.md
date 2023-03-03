@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Efim</h1>
 <h3 align="center">A passionate CS student from Russia.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=efimkafeed&label=Profile%20views&color=408080&style=flat" alt="efimkafeed" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efimkafeed&no-frame=true&theme=discord&row=1" alt="efimkafeed" /></a> </p>
 
 - 🔭 I’m currently working on [NotifyProject](https://github.com/EfimkaFeeD/NotifyProject)
