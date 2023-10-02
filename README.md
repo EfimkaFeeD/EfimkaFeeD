@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efimkafeed&no-frame=true&theme=discord&row=1" alt="efimkafeed" /></a> </p>
 
-- 🔭 I’m currently working on [NotifyProject](https://github.com/EfimkaFeeD/NotifyProject)
+- 🔭 I’m currently working on [Nothing](https://www.youtube.com/watch?v=qWNQUvIk954&t=44s)
 
 - 🌱 I’m currently learning **Python, C++, Unreal Engine, Javascript, Typescript, HTML5, CSS, SCSS**
 
