@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on [Nothing](https://www.youtube.com/watch?v=qWNQUvIk954&t=44s)
 
-- 🌱 I’m currently learning **Python, C++, Unreal Engine, Javascript, Typescript, HTML5, CSS, SCSS**
+- 🌱 I’m currently learning **Python, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EfimkaFeeD?tab=repositories](https://github.com/EfimkaFeeD?tab=repositories)
